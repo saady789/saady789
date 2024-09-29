@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saad123567579" alt="saad123567579" /></a> </p>
 
-- 🔭 I’m currently working on [Airbnb](https://github.com/Saad123567579/Airbnb.git)
+- 🔭 I’m currently working in MERN
 
 - 🌱 I’m currently learning **MERN , Next.js , Tailwind , Solidity , Blockchain**
 
