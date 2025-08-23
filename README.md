@@ -33,3 +33,61 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saady789&show_icons=true&locale=en" alt="saady789" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saady789&" alt="saady789" /></p>
+
+
+
+
+# 👋 Hi, I'm Muhammad Saad  
+
+🚀 Software Engineer | DevOps Enthusiast | AI + Cloud Builder  
+
+I’m a Computer Science student at **Penn State Harrisburg** passionate about **scalable systems, DevOps automation, and full-stack AI products**.  
+I’ve interned as a **DevOps Engineer at Clark Associates**, where I built CI/CD pipelines, migrated legacy apps to Kubernetes, and automated deployments with GitOps.  
+
+When I’m not grinding through code, you’ll find me at the gym or designing SaaS-style side projects.  
+
+---
+
+## 🛠️ Tech Stack
+**Languages:** C++, Python, TypeScript, SQL  
+**Frameworks:** React, Node.js, Express, LangChain  
+**Cloud & DevOps:** AWS, Docker, Kubernetes, ArgoCD, Terraform, Azure DevOps  
+**Tools:** Git, Postman, VS Code, SonarQube  
+
+---
+
+## 📌 Featured Projects
+### 🔹 [CodeWeave](https://codeweave.saady.dev) – *AI-powered React app builder*  
+- Converts **natural language prompts → production-ready React apps** using LangChain + Anthropic Claude.  
+- Live previews with **StackBlitz WebContainers**.  
+- Validated across **20+ use cases**, reducing manual setup time by **20%**.  
+
+---
+
+### 🔹 [ShipStack](https://shipstack.saady.dev) – *1-click cloud deployment tool*  
+- Docker + Kubernetes automation to deploy apps in **under 60 seconds**.  
+- Integrated Terraform + AWS CloudFront for scalable hosting.  
+- Cut cloud setup from 30 minutes → 5 minutes across test apps.  
+
+---
+
+### 🔹 [Resono](https://resono.saady.dev) – *Spotify-style streaming platform*  
+- Full-stack MERN app with **Google OAuth** authentication.  
+- Users can upload/play music with **real-time streaming**.  
+- Tested with **50+ uploads/streams** to validate stability.  
+
+---
+
+## 📈 GitHub Stats
+![Saad's GitHub stats](https://github-readme-stats.vercel.app/api?username=saadydev&show_icons=true&theme=radical)  
+
+---
+
+## 📫 Connect With Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-saad-7b6134260/)  
+- 🌐 [Portfolio](https://saady.dev)  
+- ✉️ Email: mxs7142@psu.edu  
+
+---
+⭐️ *“Building today what others will use tomorrow.”*  
+
