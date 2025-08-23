@@ -40,12 +40,11 @@
 
 
 
----
 <h1 align="center">👋 Hi, I'm Saad</h1>
-<h3 align="center">Software Engineer | DevOps & Cloud Enthusiast | AI + Full-Stack Builder</h3>
+<h3 align="center">Software Engineer | DevOps Engineer | AI + Cloud Builder</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saady789&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=saady789&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
@@ -53,17 +52,18 @@
 ### 🚀 About Me
 - 🎓 CS student at **Penn State Harrisburg** (Graduating 2027)  
 - 💼 Former **DevOps Intern @ Clark Associates** → built CI/CD pipelines, Kubernetes migrations, GitOps automation  
-- 🛠️ Building **AI-driven SaaS products + Cloud DevOps pipelines**  
-- 🌱 Currently learning **Kubernetes, Terraform, and advanced system design**  
+- 🛠️ Passionate about **full-stack apps, scalable DevOps systems, and AI-powered products**  
+- 🌱 Currently learning **Terraform, advanced system design, and scaling microservices**  
 - ⚡ Motto: *“Building today what others will use tomorrow.”*  
 
 ---
 
-### 🛠️ Tech Stack
-**Languages:** C++, Python, TypeScript, SQL  
-**Frameworks/Libraries:** React, Node.js, Express, LangChain  
-**Cloud & DevOps:** AWS, Docker, Kubernetes, ArgoCD, Terraform, Azure DevOps  
-**Tools:** Git, Postman, SonarQube, StackBlitz  
+### 🛠️ Technical Skills
+**Languages:** C++, Python, TypeScript, SQL, Java  
+**Frameworks/Libraries:** React, Node.js, Express, Next.js, LangChain  
+**Cloud & DevOps:** AWS, Docker, Kubernetes, ArgoCD, Terraform, Azure DevOps, CI/CD pipelines  
+**Databases:** PostgreSQL, MongoDB, MySQL, Redis  
+**Other Tools:** Git, Postman, SonarQube, Firebase, Jenkins, Linux  
 
 ---
 
@@ -86,11 +86,11 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saady789&show_icons=true&theme=radical" alt="Saad's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saady789&theme=radical" alt="Saad's GitHub streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saady789&layout=compact&theme=radical" alt="Saad's top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saady789&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saady789&theme=tokyonight" alt="GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saady789&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
@@ -99,5 +99,8 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-saad-7b6134260/)  
 - 🌐 [Portfolio](https://saady.dev)  
 - ✉️ Email: **mxs7142@psu.edu**  
+
+ 
+
 
 
