@@ -37,57 +37,67 @@
 
 
 
-# 👋 Hi, I'm Muhammad Saad  
 
-🚀 Software Engineer | DevOps Enthusiast | AI + Cloud Builder  
 
-I’m a Computer Science student at **Penn State Harrisburg** passionate about **scalable systems, DevOps automation, and full-stack AI products**.  
-I’ve interned as a **DevOps Engineer at Clark Associates**, where I built CI/CD pipelines, migrated legacy apps to Kubernetes, and automated deployments with GitOps.  
 
-When I’m not grinding through code, you’ll find me at the gym or designing SaaS-style side projects.  
+---
+<h1 align="center">👋 Hi, I'm Saad</h1>
+<h3 align="center">Software Engineer | DevOps & Cloud Enthusiast | AI + Full-Stack Builder</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=saady789&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+### 🚀 About Me
+- 🎓 CS student at **Penn State Harrisburg** (Graduating 2027)  
+- 💼 Former **DevOps Intern @ Clark Associates** → built CI/CD pipelines, Kubernetes migrations, GitOps automation  
+- 🛠️ Building **AI-driven SaaS products + Cloud DevOps pipelines**  
+- 🌱 Currently learning **Kubernetes, Terraform, and advanced system design**  
+- ⚡ Motto: *“Building today what others will use tomorrow.”*  
+
+---
+
+### 🛠️ Tech Stack
 **Languages:** C++, Python, TypeScript, SQL  
-**Frameworks:** React, Node.js, Express, LangChain  
+**Frameworks/Libraries:** React, Node.js, Express, LangChain  
 **Cloud & DevOps:** AWS, Docker, Kubernetes, ArgoCD, Terraform, Azure DevOps  
-**Tools:** Git, Postman, VS Code, SonarQube  
+**Tools:** Git, Postman, SonarQube, StackBlitz  
 
 ---
 
-## 📌 Featured Projects
-### 🔹 [CodeWeave](https://codeweave.saady.dev) – *AI-powered React app builder*  
-- Converts **natural language prompts → production-ready React apps** using LangChain + Anthropic Claude.  
-- Live previews with **StackBlitz WebContainers**.  
-- Validated across **20+ use cases**, reducing manual setup time by **20%**.  
+### 📌 Featured Projects
+
+🔹 **[CodeWeave](https://codeweave.saady.dev)** – *AI-powered React app builder*  
+- Converts **natural language → production-ready React apps** (LangChain + LLM APIs)  
+- Live previews via **StackBlitz WebContainers**  
+- Validated across **20+ use cases**, reduced setup time by **20%**  
+
+🔹 **[ShipStack](https://shipstack.saady.dev)** – *1-click cloud deployment tool*  
+- Automates deploys with **Docker + Kubernetes + Terraform**  
+- Deployed apps in **under 60 seconds**, scaling via **AWS CloudFront**  
+- Cut setup time from 30 min → 5 min  
+
+🔹 **[Resono](https://resono.saady.dev)** – *Spotify-style music streaming app*  
+- Full-stack MERN with **Google OAuth** login  
+- Upload + play music with **real-time streaming**  
+- Tested with **50+ uploads/streams**  
 
 ---
 
-### 🔹 [ShipStack](https://shipstack.saady.dev) – *1-click cloud deployment tool*  
-- Docker + Kubernetes automation to deploy apps in **under 60 seconds**.  
-- Integrated Terraform + AWS CloudFront for scalable hosting.  
-- Cut cloud setup from 30 minutes → 5 minutes across test apps.  
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saady789&show_icons=true&theme=radical" alt="Saad's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saady789&theme=radical" alt="Saad's GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saady789&layout=compact&theme=radical" alt="Saad's top languages" />
+</p>
 
 ---
 
-### 🔹 [Resono](https://resono.saady.dev) – *Spotify-style streaming platform*  
-- Full-stack MERN app with **Google OAuth** authentication.  
-- Users can upload/play music with **real-time streaming**.  
-- Tested with **50+ uploads/streams** to validate stability.  
-
----
-
-## 📈 GitHub Stats
-![Saad's GitHub stats](https://github-readme-stats.vercel.app/api?username=saadydev&show_icons=true&theme=radical)  
-
----
-
-## 📫 Connect With Me
+### 🌐 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-saad-7b6134260/)  
 - 🌐 [Portfolio](https://saady.dev)  
-- ✉️ Email: mxs7142@psu.edu  
+- ✉️ Email: **mxs7142@psu.edu**  
 
----
-⭐️ *“Building today what others will use tomorrow.”*  
 
