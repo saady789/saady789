@@ -1,25 +1,68 @@
-<h1 align="center">Hi 👋, I'm Saad</h1>
-<h3 align="center">A Software Engineer from USA</h3>
+<h1 align="center">👋 Hi, I'm Saad</h1>
+<h3 align="center">Software Engineer | DevOps Engineer | AI + Cloud Builder</h3>
+<img alt="coding" align="right" width="400" src="https://cdn.dribble.com/users/1162077/screenshots/3848914/programmer.gif"  />
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=saady789&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+---
 <img alt="coding" align="right" width="400" src="https://cdn.dribble.com/users/1162077/screenshots/3848914/programmer.gif"  />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Saad123567579&label=Profile%20views&color=0e75b6&style=flat" alt="saad123567579" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saad123567579" alt="saad123567579" /></a> </p>
+---
 
-- 🔭 I’m currently working in MERN
+### 🚀 About Me
+- 🎓 CS student at **Penn State Harrisburg** (Graduating 2027)  
+- 💼 Former **DevOps Intern @ Clark Associates** → built CI/CD pipelines, Kubernetes migrations, GitOps automation  
+- 🛠️ Passionate about **full-stack apps, scalable DevOps systems, and AI-powered products**  
+- 🌱 Currently learning **Terraform, advanced system design, and scaling microservices**  
+- ⚡ Motto: *“Building today what others will use tomorrow.”*  
 
-- 🌱 I’m currently learning **MERN , Next.js , Tailwind , Solidity , Blockchain**
+---
 
-- 👯 I’m looking to collaborate on [Airbnb](https://github.com/Saad123567579/Airbnb.git)
+### 🛠️ Technical Skills
+**Languages:** C++, Python, TypeScript, SQL, Java  
+**Frameworks/Libraries:** React, Node.js, Express, Next.js, LangChain  
+**Cloud & DevOps:** AWS, Docker, Kubernetes, ArgoCD, Terraform, Azure DevOps, CI/CD pipelines  
+**Databases:** PostgreSQL, MongoDB, MySQL, Redis  
+**Other Tools:** Git, Postman, SonarQube, Firebase, Jenkins, Linux  
 
-- 🤝 I’m looking for help with [Airbnb](https://github.com/Saad123567579/Airbnb.git)
+---
 
-- 💬 Ask me about **react, next , tailwind , blockchain , web-development**
+### 📌 Featured Projects
 
-- 📫 How to reach me **msaad.bscs22seecs@seecs.edu.pk**
+🔹 **[CodeWeave](https://codeweave.saady.dev)** – *AI-powered React app builder*  
+- Converts **natural language → production-ready React apps** (LangChain + LLM APIs)  
+- Live previews via **StackBlitz WebContainers**  
+- Validated across **20+ use cases**, reduced setup time by **20%**  
 
-- ⚡ Fun fact **I think I am dumbest debugger**
+🔹 **[ShipStack](https://shipstack.saady.dev)** – *1-click cloud deployment tool*  
+- Automates deploys with **Docker + Kubernetes + Terraform**  
+- Deployed apps in **under 60 seconds**, scaling via **AWS CloudFront**  
+- Cut setup time from 30 min → 5 min  
 
-<h3 align="left">Connect with me:</h3>
+🔹 **[Resono](https://resono.saady.dev)** – *Spotify-style music streaming app*  
+- Full-stack MERN with **Google OAuth** login  
+- Upload + play music with **real-time streaming**  
+- Tested with **50+ uploads/streams**  
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saady789&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saady789&theme=tokyonight" alt="GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saady789&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-saad-7b6134260/)  
+- 🌐 [Portfolio](https://saady.dev)  
+- ✉️ Email: **mxs7142@psu.edu**  
+
 <p align="left">
 <a href="https://fb.com/muhammad saad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad saad" height="30" width="40" /></a>
 <a href="https://instagram.com/saad_313000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saad_313000" height="30" width="40" /></a>
