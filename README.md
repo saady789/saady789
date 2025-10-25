@@ -27,6 +27,13 @@
 
 ### 📌 Featured Projects
 
+
+🔹 **[AI Photo Generator](https://github.com/saady789/AIPhotoGenerator)** – *Train AI models on your own photos*  
+- Upload **10–20 personal photos** to train **custom LoRA models (via Fal.ai)**  
+- Generate **studio-quality portraits** from **text prompts**  
+- Built with **Next.js + Express (Bun)** in a **Turborepo**  
+- Features **webhook updates**, **R2 cloud storage**, and a **personalized dashboard**
+
 🔹 **[CodeWeave](https://codeweave.saady.dev)** – *AI-powered React app builder*  
 - Converts **natural language → production-ready React apps** (LangChain + LLM APIs)  
 - Live previews via **StackBlitz WebContainers**  
