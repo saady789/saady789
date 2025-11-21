@@ -8,10 +8,10 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saad123567579" alt="saad123567579" /></a> </p>
 
 ### 🚀 About Me
-- 🎓 CS student at **Penn State Harrisburg** (Graduating 2027)  
-- 💼 Former **DevOps Intern @ Clark Associates** → built CI/CD pipelines, Kubernetes migrations, GitOps automation  
+- 🎓 CS student at **Penn State Harrisburg** 
+- 💼 Former **SWE Intern @ Clark Associates** → built CI/CD pipelines, Kubernetes migrations, GitOps automation  
 - 🛠️ Passionate about **full-stack apps, scalable DevOps systems, and AI-powered products**  
-- 🌱 Currently learning **Terraform, advanced system design, and scaling microservices**  
+- 🌱 Currently learning **AI, advanced system design, and scaling microservices**  
 - ⚡ Motto: *“Building today what others will use tomorrow.”*  
 
 ---
