@@ -39,6 +39,12 @@
 - Generates icons, lessons, and dynamic game configs with Claude Sonnet and a rule based refinement pipeline  
 - Built with Next.js, Turborepo, Prisma, and a full agent workflow that filters vague or unsafe prompts
 
+🔹 **[Micrograd Engine](https://github.com/saady789/Micrograd-Engine)** – *Autodiff engine built from scratch*  
+- Implemented a full reverse mode autodiff system with a Value class, computation graph tracking, and custom backward functions  
+- Built Neuron, Layer, and MLP modules from first principles to train simple neural networks without any deep learning frameworks  
+- Added visualization support for computation graphs and a PyTorch comparison script to validate gradient correctness
+
+
 🔹 **[Resono](https://resono.saady.dev)** – *Spotify-style music streaming app*  
 - Full-stack MERN with **Google OAuth** login  
 - Upload + play music with **real-time streaming**  
