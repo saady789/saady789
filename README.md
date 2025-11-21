@@ -34,15 +34,10 @@
 - Built with **Next.js + Express (Bun)** in a **Turborepo**  
 - Features **webhook updates**, **R2 cloud storage**, and a **personalized dashboard**
 
-🔹 **[CodeWeave](https://codeweave.saady.dev)** – *AI-powered React app builder*  
-- Converts **natural language → production-ready React apps** (LangChain + LLM APIs)  
-- Live previews via **StackBlitz WebContainers**  
-- Validated across **20+ use cases**, reduced setup time by **20%**  
-
-🔹 **[ShipStack](https://shipstack.saady.dev)** – *1-click cloud deployment tool*  
-- Automates deploys with **Docker + Kubernetes + Terraform**  
-- Deployed apps in **under 60 seconds**, scaling via **AWS CloudFront**  
-- Cut setup time from 30 min → 5 min  
+🔹 **[DreamPlay](https://dream-play.vercel.app/)** – *AI powered kids game generator*  
+- Turns simple ideas into fully playable HTML5 games using custom engines for collect, falling, and jump mechanics  
+- Generates icons, lessons, and dynamic game configs with Claude Sonnet and a rule based refinement pipeline  
+- Built with Next.js, Turborepo, Prisma, and a full agent workflow that filters vague or unsafe prompts
 
 🔹 **[Resono](https://resono.saady.dev)** – *Spotify-style music streaming app*  
 - Full-stack MERN with **Google OAuth** login  
