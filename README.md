@@ -34,21 +34,24 @@
 - Built with **Next.js + Express (Bun)** in a **Turborepo**  
 - Features **webhook updates**, **R2 cloud storage**, and a **personalized dashboard**
 
-🔹 **[DreamPlay](https://dream-play.vercel.app/)** – *AI powered kids game generator*  
+🔹 **[DreamPlay](https://github.com/saady789/DreamPlay-)** – *AI powered kids game generator*  
 - Turns simple ideas into fully playable HTML5 games using custom engines for collect, falling, and jump mechanics  
 - Generates icons, lessons, and dynamic game configs with Claude Sonnet and a rule based refinement pipeline  
 - Built with Next.js, Turborepo, Prisma, and a full agent workflow that filters vague or unsafe prompts
+
+🔹 **[Perkora](https://perkora.vercel.app/)** – *AI-powered perks discovery for startups*
+- Sign up with **email or OAuth** and answer **intelligent questions** about your startup
+- Enter your **stage, industry, team size, and burn rate** to unlock personalized perk matches
+- **Raindrop AI agent** searches across **100+ perk databases** and ranks results with **Smart Inference**
+- **SmartMemory** maintains conversation context while **SmartSQL** stores your profile and discovered perks
+- Built with **Next.js frontend** powered by **Raindrop, SmartSQL, SmartMemory, and Smart Inference** engine
+- Get **curated recommendations** with direct apply links, approval tracking, and saved favorites dashboard
 
 🔹 **[Micrograd Engine](https://github.com/saady789/Micrograd-Engine)** – *Autodiff engine built from scratch*  
 - Implemented a full reverse mode autodiff system with a Value class, computation graph tracking, and custom backward functions  
 - Built Neuron, Layer, and MLP modules from first principles to train simple neural networks without any deep learning frameworks  
 - Added visualization support for computation graphs and a PyTorch comparison script to validate gradient correctness
-
-
-🔹 **[Resono](https://resono.saady.dev)** – *Spotify-style music streaming app*  
-- Full-stack MERN with **Google OAuth** login  
-- Upload + play music with **real-time streaming**  
-- Tested with **50+ uploads/streams**  
+ 
 
 ---
 
