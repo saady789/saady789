@@ -39,7 +39,7 @@
 - Generates icons, lessons, and dynamic game configs with Claude Sonnet and a rule based refinement pipeline  
 - Built with Next.js, Turborepo, Prisma, and a full agent workflow that filters vague or unsafe prompts
 
-🔹 **[Perkora](https://perkora.vercel.app/)** – *AI-powered perks discovery for startups*
+🔹 **[Perkora](https://github.com/saady789/Perkora)** – *AI-powered perks discovery for startups*
 - Sign up with **email or OAuth** and answer **intelligent questions** about your startup
 - Enter your **stage, industry, team size, and burn rate** to unlock personalized perk matches
 - **Raindrop AI agent** searches across **100+ perk databases** and ranks results with **Smart Inference**
