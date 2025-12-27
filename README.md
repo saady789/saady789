@@ -39,6 +39,11 @@
 - Generates icons, lessons, and dynamic game configs with Claude Sonnet and a rule based refinement pipeline  
 - Built with Next.js, Turborepo, Prisma, and a full agent workflow that filters vague or unsafe prompts
 
+🔹 **[FWD Sedan Diagnostic Triage](https://huggingface.co/saadywdfsdfd/ernie-4.5-lora-fwd-sedan-triage)** - AI-powered auto repair diagnostics
+- Fine-tuned LoRA adapter (355M trainable parameters on ERNIE-4.5-21B) trained on 1,000 ChatML samples for shop-style triage of FWD sedan idle roughness, vibration, and AC-load symptoms
+- Delivers concise 2-5 sentence diagnostics with mileage-weighted cause ranking instead of generic checklists, optimized for busy mechanics and car owners
+- Trained end-to-end on single A100 GPU in 10 hours using Unsloth + TRL SFTTrainer with 4-bit quantization
+
 🔹 **[Perkora](https://github.com/saady789/Perkora)** – *AI-powered perks discovery for startups*
 - Sign up with **email or OAuth** and answer **intelligent questions** about your startup
 - Enter your **stage, industry, team size, and burn rate** to unlock personalized perk matches
