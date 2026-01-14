@@ -27,7 +27,13 @@
 
 ### 📌 Featured Projects
 
-
+🔹 **[Meter](https://github.com/saady789/Meter)** – *Usage-based monetization gateway for MCP servers*  
+- Transforms any **MCP server into a paid endpoint** with **per-tool pricing** enforced via **MNEE payments**  
+- Agents submit **payment proof before execution**—no custody, no billing stack, **direct wallet settlement**  
+- Built with **Node.js/Express backend**, **Next.js dashboard**, **Prisma ORM**, and **LangChain MCP integration**  
+- Includes **analytics dashboard** showing per-tool usage, revenue trends, success rates, and live on-chain wallet balance  
+- Enables **agent-to-agent commerce** and **autonomous service monetization** without custom billing infrastructure
+- 
 🔹 **[AI Photo Generator](https://github.com/saady789/AIPhotoGenerator)** – *Train AI models on your own photos*  
 - Upload **10–20 personal photos** to train **custom LoRA models (via Fal.ai)**  
 - Generate **studio-quality portraits** from **text prompts**  
