@@ -29,7 +29,7 @@
 
 🔹 **[Meter](https://github.com/saady789/Meter)** – *Usage-based monetization gateway for MCP servers*  
 - Transforms any **MCP server into a paid endpoint** with **per-tool pricing** enforced via **MNEE payments**  
-- Agents submit **payment proof before execution**—no custody, no billing stack, **direct wallet settlement**  
+- Agents submit **payment proof before execution** no custody, no billing stack, **direct wallet settlement**  
 - Built with **Node.js/Express backend**, **Next.js dashboard**, **Prisma ORM**, and **LangChain MCP integration**  
 - Includes **analytics dashboard** showing per-tool usage, revenue trends, success rates, and live on-chain wallet balance  
 - Enables **agent-to-agent commerce** and **autonomous service monetization** without custom billing infrastructure
